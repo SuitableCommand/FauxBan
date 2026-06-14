@@ -1,0 +1,1 @@
+execute unless data storage minecraft:fauxban_config mute run function fauxban:unmute
